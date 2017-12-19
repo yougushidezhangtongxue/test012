@@ -1,0 +1,42 @@
+﻿.ax_default {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#666666;
+  text-align:center;
+  line-height:normal;
+}
+._默认样式 {
+}
+._文本链接 {
+  color:#0000FF;
+}
+.image {
+}
+.icon {
+}
+._形状 {
+}
+.line {
+}
+._文本段落 {
+  text-align:left;
+}
+.ellipse {
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+._一级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._鼠标悬停文本链接时 {
+}
+._鼠标按下文本链接时 {
+}
